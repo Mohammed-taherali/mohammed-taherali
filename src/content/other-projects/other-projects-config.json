@@ -1,0 +1,24 @@
+[
+    {
+        "id": "other-project-portfolify",
+        "title": "Portfolify",
+        "year": "Feb 2024 - Mar 2024",
+        "github": "https://github.com/Mohammed-taherali/portfolify",
+        "tags": ["PHP", "HTML/CSS/JS", "JQuery", "Dynamic Content Generation"],
+        "description": "Final year project for the degree of BSc(CS). Dynamic portfolio Generator for freshers and experienced individuals. Functionality to generate variety of resume templates from template library.",
+        "image": "/assets/other-projects/portfolify-logo.png",
+        "jpg": "/assets/other-projects/portfolify-logo.png"
+
+    },
+    {
+        "id": "other-project-tenzies",
+        "title": "Tenzies Game",
+        "year": "Aug 2019 - Dec 2019",
+        "github": "https://github.com/Mohammed-taherali/tenzies",
+        "demo": "https://mtc-tenzies-app.netlify.app/",
+        "tags": ["React", "NodeJS", "JavaScript", "JQuery", "Game Development"],
+        "description": "Tenzies is a fast-paced game built using React.js for engaging gameplay.",
+        "image": "/assets/other-projects/tenzies-logo.png",
+        "jpg": "/assets/other-projects/tenzies-logo.png"
+    }
+]

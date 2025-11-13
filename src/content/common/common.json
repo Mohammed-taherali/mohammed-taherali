@@ -1,0 +1,29 @@
+{
+    "name": "Mohammed Taherali",
+    "logoType": {
+        "mobile": "MTC",
+        "desktop": "Mohammed Taherali"
+    },
+    "mainPicture": "/assets/MTC.jpg",
+    "mainPictureJPG": "/assets/MTC.jpg",
+    "pronunciation": "/mo-ham-med/",
+    "cssVarPrefix": "mtc",
+    "email": "mohammedtaherali5253@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/mohammedtaherali/",
+    "github": "https://github.com/Mohammed-taherali",
+    "resume": "TODO",
+    "socials": [
+        {
+            "type": "linkedin",
+            "link": "https://www.linkedin.com/in/mohammedtaherali/"
+        },
+        {
+            "type": "github",
+            "link": "http://github.com/Mohammed-taherali/"
+        },
+        {
+            "type": "mail",
+            "link": "mailto:mohammedtaherali5253@gmail.com"
+        }
+    ]
+}
