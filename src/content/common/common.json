@@ -4,8 +4,8 @@
         "mobile": "MTC",
         "desktop": "Mohammed Taherali"
     },
-    "mainPicture": "/assets/MTC.jpg",
-    "mainPictureJPG": "/assets/MTC.jpg",
+    "mainPicture": "assets/MTC.jpg",
+    "mainPictureJPG": "assets/MTC.jpg",
     "pronunciation": "/mo-ham-med/",
     "cssVarPrefix": "mtc",
     "email": "mohammedtaherali5253@gmail.com",

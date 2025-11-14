@@ -1,70 +1,97 @@
-# Portfolio Template 🖐
-> Version 2 of a simple, minimal and responsive personal website template, built using React, TypeScript, HTML and SCSS.
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Portfolio Template Banner](public/assets/readme/banner.png)
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Mohammed Taherali</h1></summary>
+  </ul>
+</div>
 
-💻  Live [demo](https://hpaul-v2.web.app/)
 
----
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"><a href="https://mohammed-taherali.github.io/mohammed-taherali/"> View my Portfolio 🚀 </a></h2></summary>
+  </ul>
+</div>
 
-## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Connect](#connect)
-- [License](#license)
 
----
 
-## Installation
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-### Setup 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-Close repository
+<br>
 
-```shell
-$ git clone https://github.com/hrishikeshpaul/portfolio-template-v2.git
-```
 
-To install the node packages used in the project:
+- 🌱 I’m currently working as: `Software Developer`
+- 👨‍💻 Currently working at: `SquareClues`
+- 🤓 Always `learning new things`.
+- ⁉ I’m currently open for a new `job opportunity`.
+- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mohammedtaherali/) 🏆.
+<br>
 
-```shell
-$ cd portfolio-template-v2
-$ yarn install
-```
 
-Compiles and hot-reloads for development
 
-```shell
-$ yarn start
-```
 
-Compiles and minifies for production
-```shell
-$ yarn build
-```
+  ## 🛠️ My Skills
+### Programming languages:
+&emsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?&logo=typescript)
+![Flutter](https://img.shields.io/badge/flutter-000?&logo=flutter)
+![Python](https://img.shields.io/badge/python-000?&logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-000?&logo=mysql)
 
-## Usage
+### Frontend Development:
+&emsp;
+![Angular](https://img.shields.io/badge/-Angular-000?logo=Angular)
+![React](https://img.shields.io/badge/-React-000?logo=React)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?logo=tailwind-css)
+![SCSS](https://img.shields.io/badge/-SCSS-000?logo=Sass)
+![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3)
+![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)
+![Chart.js](https://img.shields.io/badge/-Chart.js-000?logo=Chart.js)
 
-All the information can be edited in the JSONs and Markdowns in the [content folder](https://github.com/hrishikeshpaul/portfolio-template-v2/tree/main/src/content). Each section of the portfolio has its own folder. The `common.json` file contains details that are used throughout the website. 
+### Misc Tools:
+&emsp;
+![Git](https://img.shields.io/badge/-Git-000?logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-000?logo=GitLab)
+![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?logo=Visual-Studio-Code)
 
-All the images are in `public/assets`.
+### Databases:
+&emsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
+![Firebase](https://img.shields.io/badge/-Firebase-000?logo=Firebase)
 
-## Contributing 
 
-- Clone this repo to your local machine.
-- Checkout to a new branch. Give it a relevant name!
-- Create a pull request
 
-## Connect
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
 
-- Website at <a href="https://hrishikeshpaul.github.io/" target="_blank">`https://hrishikeshpaul.github.io/`</a>
-- LinkedIn at <a href="https://www.linkedin.com/in/mohammedtaherali/" target="_blank">`hrishikeshpaul`</a>
+-------
 
-## License
 
-[![license](https://img.shields.io/github/license/hrishikeshpaul/portfolio-template?style=flat&logo=appveyor)](https://github.com/hrishikeshpaul/portfolio-template-v2/blob/master/LICENSE) 
+<h3 align="center" >Connect with me 🤝 </h3>
 
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2022 © <a href="https://hrishikeshpaul.github.io/" target="_blank">Hrishikesh Paul</a>
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a   target="_blank" href="https://www.linkedin.com/in/mohammedtaherali/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Mohammed-taherali/">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+           <a style="margin-left: 10px;" target="_blank" href="mailto:mohammedtaherali5253@gmail.com">
+		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
+      </div>
+
+</p>
+
+
+
+-------

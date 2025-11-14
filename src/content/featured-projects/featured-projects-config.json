@@ -8,8 +8,8 @@
         "github": "https://github.com/Mohammed-taherali/netflixClone",
         "tags": ["React", "TypeScript", "NodeJS", "MongoDB", "MongoDB Atlas", "ExpressJS", "CSS"],
         "description": "A full fledged Netflix clone made using MERN stack. It integrates TMBD API to fetch data from IMDB servers.",
-        "image": "/assets/featured-projects/netflix-project.jpeg",
-        "jpg": "/assets/featured-projects/netflix-project.jpeg"
+        "image": "assets/featured-projects/netflix-project.jpeg",
+        "jpg": "assets/featured-projects/netflix-project.jpeg"
     },
     {
         "id": "featured-project-finance-management",
@@ -20,7 +20,7 @@
         "github": "https://github.com/Mohammed-taherali/my_app",
         "tags": ["Angular 17", "TypeScript", "NodeJS", "Tailwind", "Firebase", "GCP", "Firestore"],
         "description": "A simple and minimalist finance management app to cater to all your financial needs. Seamless sign in with google to track your expenditures.",
-        "image": "/assets/featured-projects/finance-management.jpeg",
-        "jpg": "/assets/featured-projects/finance-management.jpeg"
+        "image": "assets/featured-projects/finance-management.jpeg",
+        "jpg": "assets/featured-projects/finance-management.jpeg"
     }
 ]
